@@ -1,3 +1,5 @@
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/giuseppericcio/CSD_Air_Humidifier/total">   <img alt="GitHub" src="https://img.shields.io/github/license/giuseppericcio/CSD_Air_Humidifier">
+
 <img src="https://github.com/LaErre9/CSD_Air_Humidifier/blob/main/Filmati/LogoAirHumidifier.png?raw=true" alt="Alt text" title="Logo Air " width="auto" height="auto">
 "L’elettricità statica nei nostri capelli o le scintille che volano quando si tocca qualcuno o qualcosa (e.g maniglia) in inverno e non solo sono sicuramente segnali che l’aria nella nostra casa è troppo secca."
 
